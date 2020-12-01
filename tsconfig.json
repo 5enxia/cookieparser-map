@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "ES6",
+    "moduleResolution": "node",
+    "strict": true,
+    "skipLibCheck": true,
+    "declaration": true,
+    "pretty": true,
+    "newLine": "lf",
+    "outDir": "./dist"
+  }
+}
